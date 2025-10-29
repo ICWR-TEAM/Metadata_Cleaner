@@ -37,8 +37,8 @@
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/image-metadata-cleaner.git
-cd image-metadata-cleaner
+git clone https://github.com/ICWR-TEAM/Metadata_Cleaner.git
+cd Metadata_Cleaner
 ```
 
 ### 2️⃣ Install Dependencies
