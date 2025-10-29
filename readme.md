@@ -2,7 +2,11 @@
 
 <img width="2278" height="938" alt="image" src="https://github.com/user-attachments/assets/11addcee-c9c7-4e80-8860-91e76e183968" />
 
+<br>
+
 > 🔒 Hapus metadata tersembunyi dari gambar (EXIF, lokasi GPS, kamera, dll) dengan mudah langsung dari terminal.
+
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Pillow](https://img.shields.io/badge/Library-Pillow-green.svg)
