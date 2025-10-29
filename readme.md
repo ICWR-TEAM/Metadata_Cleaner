@@ -164,8 +164,6 @@ Jika kamu merasa proyek ini bermanfaat:
 
  - [ ] CLI flags (--input, --output, --suffix)
 
-🔹 Hasil di GitHub nanti akan terlihat seperti ini:
-
 ---
 
 > “Privacy bukan tentang menyembunyikan sesuatu, tapi tentang memilih apa yang ingin kamu bagikan.” 💡
