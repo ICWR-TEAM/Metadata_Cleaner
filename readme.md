@@ -18,12 +18,17 @@
 
 ## ✨ Fitur Utama
 
-✅ Menghapus semua metadata tersembunyi dari gambar (EXIF, kamera, GPS, dll)  
-📁 Bisa membersihkan **satu file** atau **seluruh folder gambar**  
-⚙️ Mendukung format `.jpg`, `.jpeg`, `.png`, `.tiff`, `.bmp`, `.webp`  
-💾 Bisa menyimpan hasil di folder lain atau di tempat yang sama  
-🧠 Tidak menurunkan kualitas gambar (data pixel tetap utuh)  
-🧩 Sederhana, cepat, dan ringan tanpa ketergantungan besar  
+- ✅ Menghapus semua metadata tersembunyi dari gambar (EXIF, kamera, GPS, dll)
+  
+- 📁 Bisa membersihkan **satu file** atau **seluruh folder gambar**
+  
+- ⚙️ Mendukung format `.jpg`, `.jpeg`, `.png`, `.tiff`, `.bmp`, `.webp`
+  
+- 💾 Bisa menyimpan hasil di folder lain atau di tempat yang sama
+  
+- 🧠 Tidak menurunkan kualitas gambar (data pixel tetap utuh)
+  
+- 🧩 Sederhana, cepat, dan ringan tanpa ketergantungan besar  
 
 ---
 
