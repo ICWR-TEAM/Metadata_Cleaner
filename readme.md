@@ -1,5 +1,7 @@
 # 🧹 Image Metadata Cleaner
 
+<img width="2278" height="938" alt="image" src="https://github.com/user-attachments/assets/11addcee-c9c7-4e80-8860-91e76e183968" />
+
 > 🔒 Hapus metadata tersembunyi dari gambar (EXIF, lokasi GPS, kamera, dll) dengan mudah langsung dari terminal.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
